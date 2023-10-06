@@ -1,9 +1,11 @@
-Welcome to our website cpde base!
+Welcome to our website code base repository!
 
-We help businesses improve their online visibility, reputation, and social media presence. We offer a variety of services, including:
+Horiseon help businesses improve their online visibility, reputation, and social media presence. We offer a variety of services, including:
 
 Search engine optimization (SEO): We help businesses rank higher in search engine results pages (SERPs) for relevant keywords.
+
 Online reputation management (ORM): We help businesses monitor and manage their online reputation, both positive and negative.
+
 Social media marketing (SMM): We help businesses create and implement effective social media marketing campaigns.
 Why are these services important?
 
