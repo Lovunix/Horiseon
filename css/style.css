@@ -24,6 +24,11 @@ body {
     padding-bottom: 20px;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+
+.seo {
+    color: #d6dcd8c7;
 }
 
 #menu  {
